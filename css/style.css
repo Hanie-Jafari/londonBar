@@ -808,7 +808,7 @@ body {
   background-size: cover !important;
 }
 .header-history .container .hero-content {
-  padding: 50px 0;
+  padding: 50px 0 !important;
 }
 .header-history .container .hero-content p {
   font-size: 16px;
