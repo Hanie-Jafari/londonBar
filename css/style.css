@@ -810,6 +810,9 @@ body {
 .header-history .container .hero-content {
   padding: 50px 0 !important;
 }
+.header-history .hero-content h1 {
+  padding-top: 5px !important;
+}
 .header-history .container .hero-content p {
   font-size: 16px;
 }
