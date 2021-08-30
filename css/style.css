@@ -339,7 +339,7 @@ body {
 .navbar-burger {
   visibility: hidden;
   opacity: 0;
-  transition: opacity 2s 200ms, visibility 2s 200ms;
+  transition: opacity 1s 10ms, visibility 1s 10ms;
 }
 /* history  */
 .history {
@@ -808,7 +808,7 @@ body {
   background-size: cover !important;
 }
 .header-history .container .hero-content {
-  padding: 50px 0 !important;
+  padding: 100px 0 !important;
 }
 .header-history .hero-content h1 {
   padding-top: 5px !important;
